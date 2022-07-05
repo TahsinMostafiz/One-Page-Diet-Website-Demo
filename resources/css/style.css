@@ -177,3 +177,43 @@ p{
 /* END RECIPIES SECTIONS DESIGN */
 
 
+/* START SUBSCRIBE SECTIONS DESIGN */
+
+.box-card-width{
+    width: 90%;
+}
+
+.subscribe-flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.youtube-subscribers,
+.insta-followers,
+.dribbble-shot-likes{
+    flex: auto;
+    text-align: center;
+}
+
+.youtube-subscribers h2,
+.insta-followers h2,
+.dribbble-shot-likes h2{
+    color: #18191F;
+    font-size: 3rem;
+    
+}
+
+.youtube-subscribers p,
+.insta-followers p,
+.dribbble-shot-likes p{
+    text-align: center;
+    color: #18191F;
+    font-size: 1.6rem;
+    margin-top: 1rem;
+    padding: 0;
+    width: 100%;
+}
+
+
+
+/* END SUBSCRIBE SECTIONS DESIGN */
