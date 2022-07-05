@@ -97,7 +97,7 @@ p{
     padding: 2rem;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     width: 80%;
-    border-radius: 3rem;
+    border-radius: 2rem;
     margin: auto;
 }
 
@@ -179,6 +179,10 @@ p{
 
 /* START SUBSCRIBE SECTIONS DESIGN */
 
+#subscribe-section{
+    margin: 2rem 0 5rem 0;
+}
+
 .box-card-width{
     width: 90%;
 }
@@ -214,6 +218,29 @@ p{
     width: 100%;
 }
 
-
-
 /* END SUBSCRIBE SECTIONS DESIGN */
+
+/* START FOOTER SECTIONS DESIGN */
+
+footer{
+    background: #0B0D17;
+    text-align: center;
+    padding: 2rem;
+}
+
+footer h2{
+    font-size: 2.5rem;
+    color: #5B5B5B;
+}
+
+footer h2 span{
+    color: #FBA24F;
+}
+
+footer p{
+    color: rgba(255, 255, 255, 0.445);
+    font-size: 1.2;
+    text-align: center;
+    width: 100%;
+}
+/* END FOOTER SECTIONS DESIGN */
